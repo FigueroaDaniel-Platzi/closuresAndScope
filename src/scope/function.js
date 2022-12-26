@@ -8,4 +8,4 @@ function greeting() {
 }
 
 greeting();
-console.log(userName); // ReferenceError
+console.log(userName); // ReferenceError: userName is not defined
